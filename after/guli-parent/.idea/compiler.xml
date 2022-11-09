@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="service-edu" />
+        <module name="service-base" />
+        <module name="common-utils" />
+        <module name="service-oss" />
+        <module name="service_cms" />
+        <module name="service-order" />
+        <module name="service-vod" />
+        <module name="service-acl" />
+        <module name="service-msm" />
+        <module name="service-statistics" />
+        <module name="api-gateway" />
+        <module name="spring-security" />
+        <module name="service_ucenter" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Ser" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Ser" options="-parameters" />
+      <module name="api-gateway" options="-parameters" />
+      <module name="common" options="-parameters" />
+      <module name="common-utils" options="-parameters" />
+      <module name="service" options="-parameters" />
+      <module name="service-acl" options="-parameters" />
+      <module name="service-base" options="-parameters" />
+      <module name="service-edu" options="-parameters" />
+      <module name="service-msm" options="-parameters" />
+      <module name="service-order" options="-parameters" />
+      <module name="service-oss" options="-parameters" />
+      <module name="service-statistics" options="-parameters" />
+      <module name="service-vod" options="-parameters" />
+      <module name="service_cms" options="-parameters" />
+      <module name="service_ucenter" options="-parameters" />
+      <module name="spring-security" options="-parameters" />
+    </option>
+  </component>
+</project>

@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5cc83b22-50f7-4c4a-beb4-dbf84cfae980" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../maven/apache-maven-3.3.9-bin/apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="D:\maven\apache-maven-3.3.9-bin\apache-maven-3.3.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="2FsbbVHIMKPI9fkCUuqc8IXjz3c" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/api-gateway/src/main/java" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="service.view.auto.scroll.from.source" value="true" />
+    <property name="settings.editor.selected.configurable" value="spring" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\code\guli-parent\api-gateway\src\main\java" />
+      <recent name="D:\code\guli-parent\api-gateway\src\main\resources" />
+      <recent name="D:\code\guli-parent\service\service-acl\src\main\java\com\kx\service" />
+      <recent name="D:\code\guli-parent\common\common-utils\src\main\java\com\kx\commonutils" />
+      <recent name="D:\code\guli-parent\common\spring-security\src\main\java\com\kx\security" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\code\guli-parent\service\service-edu\src\test" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+      <recent name="com.kx" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ApiGatewayApplication">
+    <configuration name="ApiGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="api-gateway" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.gateway.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.gateway.ApiGatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MsmServiceMain" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="service-msm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kx.msmservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.kx.msmservice.MsmServiceMain" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderServiceMain8007" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="service-order" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kx.orderservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.kx.orderservice.OrderServiceMain8007" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceAclApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="service-acl" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kx.aclservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.kx.aclservice.ServiceAclApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceEduMain8001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="service-edu" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kx.eduservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.kx.eduservice.ServiceEduMain8001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.OrderServiceMain8007" />
+      <item itemvalue="Spring Boot.MsmServiceMain" />
+      <item itemvalue="Spring Boot.ServiceEduMain8001" />
+      <item itemvalue="Spring Boot.ServiceAclApplication" />
+      <item itemvalue="Spring Boot.ApiGatewayApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.ServiceEduMain8001" />
+        <item itemvalue="Spring Boot.ApiGatewayApplication" />
+        <item itemvalue="Spring Boot.ServiceAclApplication" />
+        <item itemvalue="Spring Boot.MsmServiceMain" />
+        <item itemvalue="Spring Boot.OrderServiceMain8007" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5cc83b22-50f7-4c4a-beb4-dbf84cfae980" name="Changes" comment="" />
+      <created>1665283811591</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1665283811591</updated>
+      <workItem from="1665283813088" duration="947000" />
+      <workItem from="1665287353044" duration="1344000" />
+      <workItem from="1665288794292" duration="5137000" />
+      <workItem from="1665300534327" duration="16366000" />
+      <workItem from="1665369736946" duration="19000" />
+      <workItem from="1665369875245" duration="23000" />
+      <workItem from="1665389189452" duration="19000" />
+      <workItem from="1665553603494" duration="14643000" />
+      <workItem from="1665592147523" duration="4000" />
+      <workItem from="1665652212437" duration="9266000" />
+      <workItem from="1665729140806" duration="5076000" />
+      <workItem from="1665763278194" duration="1219000" />
+      <workItem from="1665800451234" duration="9340000" />
+      <workItem from="1665881656757" duration="12731000" />
+      <workItem from="1665968823334" duration="5273000" />
+      <workItem from="1665986284965" duration="3982000" />
+      <workItem from="1666053753931" duration="14455000" />
+      <workItem from="1666103072183" duration="2147000" />
+      <workItem from="1666144381036" duration="5071000" />
+      <workItem from="1666157917724" duration="18690000" />
+      <workItem from="1666231660285" duration="3235000" />
+      <workItem from="1666234940199" duration="8393000" />
+      <workItem from="1666353691427" duration="4422000" />
+      <workItem from="1666360364510" duration="56000" />
+      <workItem from="1666360439342" duration="1072000" />
+      <workItem from="1666361725822" duration="1109000" />
+      <workItem from="1666364716099" duration="4007000" />
+      <workItem from="1666402768981" duration="10294000" />
+      <workItem from="1666511037212" duration="8378000" />
+      <workItem from="1666570598780" duration="16452000" />
+      <workItem from="1666662435526" duration="596000" />
+      <workItem from="1666686344322" duration="4122000" />
+      <workItem from="1666711554835" duration="2648000" />
+      <workItem from="1666762239051" duration="5937000" />
+      <workItem from="1666835911757" duration="6174000" />
+      <workItem from="1666856715628" duration="605000" />
+      <workItem from="1666869989306" duration="1243000" />
+      <workItem from="1666883820408" duration="2636000" />
+      <workItem from="1666958774795" duration="659000" />
+      <workItem from="1667027638948" duration="3966000" />
+      <workItem from="1667038799338" duration="17428000" />
+      <workItem from="1667195710395" duration="8302000" />
+      <workItem from="1667297482033" duration="24000" />
+      <workItem from="1667460987517" duration="18966000" />
+      <workItem from="1667528866922" duration="663000" />
+      <workItem from="1667564088588" duration="18024000" />
+      <workItem from="1667708276221" duration="8355000" />
+      <workItem from="1667783490686" duration="12693000" />
+      <workItem from="1667819342636" duration="5297000" />
+      <workItem from="1667886237488" duration="89000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.sql.SQLIntegrityConstraintViolationException" package="java.sql" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="SpringBootApplicationConfigurationType">
+        <watch expression="result.get(0).children.get(4)" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
